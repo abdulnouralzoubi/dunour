@@ -151,7 +151,7 @@
   </a>
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/512317/github-142.svg  "
+    <img src="https://www.svgrepo.com/show/512317/github-142.svg"
          alt="github"
          width="38"
          height="38"/>
@@ -188,8 +188,9 @@
 </a>
 
 <br/>
-<details>
-  <summary><b>Other Tools & Skills:</b></summary>
+<!-- <details> -->
+  <!-- <summary><b>Other Tools & Skills:</b></summary> -->
+  <h3 align="center">Other Tools & Skills:</h3  >
   <br/>
   <p align="center">
   <!-- WordPress -->
@@ -213,7 +214,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
   </p>
-  </details>
+  <!-- </details> -->
 <div>
 
 <div align="center" class="contact-me">
