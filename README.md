@@ -4,7 +4,7 @@
 
 <div align='center'>
   <b>
-  Full Stack Developer & Cyber Security Enthusiast, a recent Graduate of <a href="https://orangecodingacademy.com/" target="_blank" rel="noreferrer">Orange Coding Academy</a>, where I honed my skills in web development. Passionate about building seamless user experiences and robust backend solutions.
+  Full Stack Developer & Cyber Security Enthusiast, a recent alumnus of <a href="https://orangecodingacademy.com/" target="_blank" rel="noreferrer">Orange Coding Academy</a>, where I honed my skills in web development. Passionate about building seamless user experiences and robust backend solutions.
   </b>
 </div>
 <hr/>
