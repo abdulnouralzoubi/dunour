@@ -14,8 +14,8 @@
   <a href="mailto:abdulnour.m.alzoubi@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdulnour.m.alzoubi@gmail.com">
   </a>
-  <a href="https://www.linkedin.com/in/abdulnour-alzoubi" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=w.linkedin.com/in/abdulnour-alzoubi">
+  <a href="https://www.linkedin.com/in/abdulnour-alzoubi-" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=w.linkedin.com/in/abdulnour-alzoubi-">
   </a>
 </p>
 
@@ -219,7 +219,7 @@
 
 <div align="center" class="contact-me">
   <h3>📩 Connect with me:</h3>
-  <a href="w.linkedin.com/in/abdulnour-alzoubi" target="blank">
+  <a href="https://www.linkedin.com/in/abdulnour-alzoubi-" target="blank">
     <img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="abdulnour-alzoubi"
