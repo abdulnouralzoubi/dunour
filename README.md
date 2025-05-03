@@ -270,6 +270,6 @@
          alt="most-used-languages">
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://data.typeracer.com/pit/profile?user=dunour&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=dunour" border="0" alt="TypeRacer.com scorecard for user dunour"/></a>
-</div>
+</div> -->
