@@ -268,4 +268,8 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulnouralzoubi&theme=tokyonight&hide_border=true"
          alt="most-used-languages">
-</div>-
+</div>
+
+<div align="center">
+    <a href="https://data.typeracer.com/pit/profile?user=dunour&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=dunour" border="0" alt="TypeRacer.com scorecard for user dunour"/></a>
+</div>
