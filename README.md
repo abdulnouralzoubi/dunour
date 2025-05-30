@@ -4,7 +4,7 @@
 
 <div align='center'>
   <b>
-  Full Stack Developer & Cyber Security Enthusiast, a recent alumnus of <a href="https://orangecodingacademy.com/" target="_blank" rel="noreferrer">Orange Coding Academy</a>, where I honed my skills in web development. Passionate about building seamless user experiences and robust backend solutions.
+  Software Developer & Cyber Security Enthusiast, a recent alumnus of <a href="https://orangecodingacademy.com/" target="_blank" rel="noreferrer">Orange Coding Academy</a>, where I honed my skills in web development. Passionate about building seamless user experiences and robust backend solutions.
   </b>
 </div>
 <hr/>
@@ -21,9 +21,9 @@
 
 ## About me:
 
-- 📚 I’m currently expanding my expertise in advanced Laravel development and exploring modern JavaScript frameworks and libraries, including the MERN stack.
+- 📚 I'm currently working to expand my expertise in C#, .NET Development and CyberSecurity, focusing on advancing my skills in these areas.
 
-- 👨‍💻 Explore my projects [here](https://github.com/abdunlnouralzoubi?tab=repositories).
+- 👨‍💻 Explore my projects [Coming Soon](https://github.com/abdunlnouralzoubi/#).
 
 <br>
 
@@ -37,6 +37,14 @@
           height="40"
           class="d-block rounded-2 mr-3 flex-shrink-0"
           alt="c-lang">
+  </a>
+ <!-- C# -->
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/csharp-original.svg"
+          width="40"
+          height="40"
+          class="d-block rounded-2 mr-3 flex-shrink-0"
+          alt="csharp">
   </a>
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -71,21 +79,36 @@
          height="35"/>
   </a>
   
-  <h3 align="center">Frameworks:</h3> 
-  <!-- Django -->
-  <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
-          width="42"
-          height="42"
-          class="d-block rounded-2 mr-3 flex-shrink-0"
-          alt="django">
-  </a> -->
+  <h3 align="center">Frameworks:</h3>
+  <!-- .Net -->
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"
+            alt="dot-net"
+            width="40"
+            height="40"/>
+  </a>
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"
             alt="laravel"
             width="40"
             height="40"/>
+  </a>
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-plain.svg"
+          width="42"
+          height="42"
+          class="d-block rounded-2 mr-3 flex-shrink-0"
+          alt="flask">
+  </a>
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+          width="42"
+          height="42"
+          class="d-block rounded-2 mr-3 flex-shrink-0"
+          alt="django">
   </a>
 
   <!-- Java Spring Boot -->
@@ -170,19 +193,27 @@
   </a>
 
 <h3 align="center">Databases:</h3> 
-<!-- SQLite -->
-<a href="https://www.sqlite.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+<!-- Microsoft SQL Server -->
+<a href="https://www.microsoft.com/sql-server/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mysql" width="40" height="40"/>
+</a>
+<!-- SQLite -->
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </a>
 <!-- MongoDB -->
 <a href="https://www.mongodb.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a>
-<!-- MongoDB -->
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<!-- Firebase -->
 <a href="https://www.firebase.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="mongodb" width="40" height="40"/>
 </a>
