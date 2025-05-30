@@ -40,7 +40,7 @@
   </a>
  <!-- C# -->
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/csharp-original.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
           width="40"
           height="40"
           class="d-block rounded-2 mr-3 flex-shrink-0"
@@ -96,7 +96,7 @@
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-plain.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
           width="42"
           height="42"
           class="d-block rounded-2 mr-3 flex-shrink-0"
@@ -195,11 +195,11 @@
 <h3 align="center">Databases:</h3> 
 <!-- Microsoft SQL Server -->
 <a href="https://www.microsoft.com/sql-server/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="microsoftsqlserver" width="40" height="40"/>
 </a>
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 <!-- SQLite -->
 <a href="https://www.sqlite.org/" target="_blank">
